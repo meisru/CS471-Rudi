@@ -33,6 +33,10 @@ The TCP three-way handshake:
 
 ![TCP Handshake](Screenshots/Screenshot1.png)
 
+TCP Stream:
+
+![](Screenshots/stream.png)
+
 Observed data packets:
 
 ![Data Transfer](Screenshots/Screenshot3.png)
