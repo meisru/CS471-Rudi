@@ -1,0 +1,1 @@
+Repository for CS471 (Web Technologies) Lab Assesments.
