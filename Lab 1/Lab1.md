@@ -1,5 +1,4 @@
 # Lab 1 - Internet Protocols
-Rudi Aleidan - 431201518
 
 ## Part 1: HTTP 
 
